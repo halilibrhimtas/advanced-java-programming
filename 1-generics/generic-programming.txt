@@ -13,3 +13,8 @@ run command:
 Generic Interface Nedir?
 
 Sınıfların veya başka interface'lerin belirli türleri kullanarak genelleştirilmesini sağlar.
+
+Generic Method nedir?
+
+Bir veya birden fazla tür parametresi alıp, içerisinde belirli işlemler yapar.
+avantaj - Aynı method ile farklı türlerle çalışabilir.
